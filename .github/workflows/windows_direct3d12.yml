@@ -26,5 +26,5 @@ jobs:
       with:
         name: ArmorPaint-Windows
         path: |
-          paint/build/
-          build/
+          paint/build/ArmorPaint.exe
+          paint/data/
